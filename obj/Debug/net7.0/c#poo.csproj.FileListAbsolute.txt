@@ -1,0 +1,14 @@
+C:\Users\davif\Desktop\c#poo\bin\Debug\net7.0\c#poo.exe
+C:\Users\davif\Desktop\c#poo\bin\Debug\net7.0\c#poo.deps.json
+C:\Users\davif\Desktop\c#poo\bin\Debug\net7.0\c#poo.runtimeconfig.json
+C:\Users\davif\Desktop\c#poo\bin\Debug\net7.0\c#poo.dll
+C:\Users\davif\Desktop\c#poo\bin\Debug\net7.0\c#poo.pdb
+C:\Users\davif\Desktop\c#poo\obj\Debug\net7.0\c#poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davif\Desktop\c#poo\obj\Debug\net7.0\c#poo.AssemblyInfoInputs.cache
+C:\Users\davif\Desktop\c#poo\obj\Debug\net7.0\c#poo.AssemblyInfo.cs
+C:\Users\davif\Desktop\c#poo\obj\Debug\net7.0\c#poo.csproj.CoreCompileInputs.cache
+C:\Users\davif\Desktop\c#poo\obj\Debug\net7.0\c#poo.dll
+C:\Users\davif\Desktop\c#poo\obj\Debug\net7.0\refint\c#poo.dll
+C:\Users\davif\Desktop\c#poo\obj\Debug\net7.0\c#poo.pdb
+C:\Users\davif\Desktop\c#poo\obj\Debug\net7.0\c#poo.genruntimeconfig.cache
+C:\Users\davif\Desktop\c#poo\obj\Debug\net7.0\ref\c#poo.dll
