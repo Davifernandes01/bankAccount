@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\davif\\Desktop\\c#poo\\c#poo.csproj": {}
+    "C:\\Users\\davif\\Desktop\\c#POO\\bankAccount\\c#poo.csproj": {}
   },
   "projects": {
-    "c:\\Users\\davif\\Desktop\\c#poo\\c#poo.csproj": {
+    "C:\\Users\\davif\\Desktop\\c#POO\\bankAccount\\c#poo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\davif\\Desktop\\c#poo\\c#poo.csproj",
+        "projectUniqueName": "C:\\Users\\davif\\Desktop\\c#POO\\bankAccount\\c#poo.csproj",
         "projectName": "c#poo",
-        "projectPath": "c:\\Users\\davif\\Desktop\\c#poo\\c#poo.csproj",
+        "projectPath": "C:\\Users\\davif\\Desktop\\c#POO\\bankAccount\\c#poo.csproj",
         "packagesPath": "C:\\Users\\davif\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\davif\\Desktop\\c#poo\\obj\\",
+        "outputPath": "C:\\Users\\davif\\Desktop\\c#POO\\bankAccount\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\davif\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

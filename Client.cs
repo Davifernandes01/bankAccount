@@ -1,4 +1,4 @@
-namespace client
+namespace bank
 {
     class Client
     {
